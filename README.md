@@ -1,6 +1,6 @@
-# Joint-spatial-temporal-modeling-
+# Joint-spatial-temporal-modeling
 
-Data and R code to support Pavani and MOraga (2023).  In this paper, we model the geographic distributions of dengue and chikungunya over the years 2016 to 2021 in the Brazilian state of Ceará. We use a Bayesian hierarchical spatial model for the joint analysis of two arboviruses that includes spatial covariates as well as specific and shared spatial effects that take into account the potential autocorrelation between the two diseases.
+Data and R code to support Pavani and Moraga (2022).  In this paper, we describe geographic and temporal patterns of two mosquito-borne diseases, dengue and chikungunya, and their possible risk factors in the Brazilian state of Ceará in 2017. To pursue this, we consider a Bayesian hierarchical spatio-temporal model for the joint analysis of both arboviruses. This specification also uses a Zero-Inflated Poisson (ZIP) model to overcome the high proportion of zeros. Moreover, it includes covariates as well as disease-specific and shared spatial and temporal effects, which are estimated and mapped to identify similarities among diseases.
 
 ## Citation
 
