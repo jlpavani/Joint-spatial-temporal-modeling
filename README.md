@@ -6,7 +6,7 @@ Data and R code to support Pavani and Moraga (2022).  In this paper, we describe
 
 If you find this code helpful and use it in your work, please cite our paper:
 
-> Pavani, J.; Moraga, P.: A Bayesian joint spatio-temporal model for multiple mosquito-borne diseases. *New Frontiers in Bayesian Statistics*, 69-77, 2022. [[DOI](https://doi.org/10.1007/978-3-031-16427-9_7})]
+> Pavani, J.; Moraga, P.: A Bayesian joint spatio-temporal model for multiple mosquito-borne diseases. *New Frontiers in Bayesian Statistics*, 69-77, 2022. [[DOI](https://doi.org/10.1007/978-3-031-16427-9_7)]
 
 ```bibtex
 @InProceedings{Pavani2022,
